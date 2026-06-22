@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: rag-svc
+  profiles:
+    active: dev
+
+server :
+  port : 10011
